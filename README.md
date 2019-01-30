@@ -1,2 +1,2 @@
 # hello-world
-What have i done
+I am new to git
